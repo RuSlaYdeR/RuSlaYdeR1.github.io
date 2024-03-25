@@ -1,0 +1,230 @@
+*
+.box {
+Width: 38px;
+Height: 40px;
+Left: 489px;
+Top:28px;
+position: absolute;
+
+}
+
+.mini-box {
+	width: 90px;
+	height: 14px;
+	left: 542px;
+	top: 36px;
+	color: #292929;
+font-weight: bold;
+position:absolute;
+
+}
+.megabox {
+position: absolute;
+width: 179px;
+height: 10px;
+left: 542px;
+top: 59px;
+
+font-size: 11px;
+font-weight: undefined;
+font-style: normal;
+text-align: left;
+color: #969696;
+
+}
+
+.superbox {
+	position: absolute;
+width: 112px;
+height: 11px;
+left: 1295px;
+top: 45px;
+
+font-size: 12px;
+font-weight: undefined;
+font-style: normal;
+text-align: right;
+color: #292929;
+
+position: absolute;
+width: 163px;
+height: 43px;
+left: 1268px;
+top: 28px;
+
+border-color: rgba(41, 41, 41, 1);
+border-width: 2px;
+border-style: solid;
+}
+.churkabox {
+position: absolute;
+width: 148px;
+height: 13px;
+left: 1091px;
+top: 36px;
+
+font-size: 15px;
+font-weight: undefined;
+font-style: normal;
+text-align: right;
+color: #292929;
+
+}
+.baldezhbox {
+	position: absolute;
+width: 172px;
+height: 8px;
+left: 1068px;
+top: 59px;
+
+font-size: 11px;
+font-weight: undefined;
+font-style: normal;
+text-align: right;
+color: #969696;
+}
+
+.danil {
+position: absolute;
+width: 940px;
+height: 60px;
+left: 490px;
+top: 100px;
+background: rgba(255, 204, 0, 1)
+}
+.gl {
+position: absolute;
+width: 55px;
+height: 20px;
+left: 558px;
+top: 120px;
+font-size: 14px;
+font-weight: undefined;
+font-style: normal;
+text-align: center;
+color: #000000;
+}
+.ct {
+	position: absolute;
+width: 57px;
+height: 10px;
+left: 707px;
+top: 120px;
+font-size: 14px;
+font-weight: undefined;
+font-style: normal;
+text-align: center;
+color: #000000;
+}
+.us {
+	position: absolute;
+width: 50px;
+height: 13px;
+left: 860px;
+top: 120px;
+font-size: 14px;
+font-weight: undefined;
+font-style: normal;
+text-align: center;
+color: #000000;
+}
+.ds {
+	position: absolute;
+width: 67px;
+height: 12px;
+left: 1002px;
+top: 120px;
+font-size: 14px;
+font-weight: undefined;
+font-style: normal;
+text-align: center;
+color: #000000;
+}
+.ok {
+	position: absolute;
+width: 120px;
+height: 50px;
+left: 1143px;
+top: 120px;
+font-size: 14px;
+font-weight: undefined;
+font-style: normal;
+text-align: center;
+color: #000000;
+}
+.kn {
+	position: absolute;
+width: 68px;
+height: 10px;
+left: 1302px;
+top: 120px;
+font-size: 14px;
+font-weight: undefined;
+font-style: normal;
+text-align: center;
+color: #000000;
+}
+.photo {
+	position: absolute;
+width: 1920px;
+height: 553px;
+left: 0px;
+top: 15px;
+opacity: 10;
+}
+.bd {
+	position: absolute;
+width: 408px;
+height: 31px;
+left: 490px;
+top: 300px;
+font-size: 36px;
+font-weight: undefined;
+font-style: normal;
+text-align: left;
+color: #black;
+}
+.b {
+	position: absolute;
+width: 240px;
+height: 54px;
+left: 491px;
+top: 371px;
+font-size: 14px;
+font-weight: undefined;
+font-style: normal;
+text-align: left;
+color: #black;
+}
+.bl {
+	position: absolute;
+width: 200px;
+height: 50px;
+left: 488px;
+top: 488px;
+background: rgba(255, 210, 0, 1)
+}
+.pod {
+	position: absolute;
+width: 200px;
+height: 11px;
+left: 467px;
+top: 502px;
+font-size: 12px;
+font-weight: undefined;
+font-style: normal;
+text-align: right;
+color: #black;
+}
+.il {
+	position: absolute;
+width: 200px;
+height: 10px;
+left: 721px;
+top: 503px;
+font-size: 12px;
+font-weight: undefined;
+font-style: normal;
+text-align: left;
+color: #black
+}
